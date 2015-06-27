@@ -1,2 +1,4 @@
 Git is a distributied version control system.
-Git is good free software.
+I like Git too.
+Git is from swiss.
+I like Git.
