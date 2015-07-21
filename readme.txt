@@ -5,4 +5,5 @@ I like Git.
 Git tracks changes of files.
 Git is No two.
 
-add to this line to remote responsity.
+delete a line that be from local and add newl line.
+This line is added by remote reponsity.
